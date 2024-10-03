@@ -17,4 +17,3 @@ A WalMart billing system using python and tkinter.
 - Total bill is displayed below.
 <br />
 
-<h4>Made as a mini-project by team of Dhaval and Nishant.</h4>
