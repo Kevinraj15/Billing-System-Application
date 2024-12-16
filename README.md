@@ -1,5 +1,5 @@
-# WalMart Billing system.
-A WalMart billing system using python and tkinter.
+#  Billing system.
+A billing system using python and tkinter.
 
 ### How to run the program on your device:
 - Clone the repository.
