@@ -17,9 +17,9 @@ class Bill_App:
     def __init__(self,root):
         self.root=root
         self.root.geometry("1530x790+0+0")
-        self.root.title("WALMART")
+        self.root.title("BILLING")
         bg_color="#0BB5FF"
-        title=Label(self.root,text="WALMART",bd=10,relief=GROOVE,bg=bg_color,fg="#003151",font=("times new roman",30,"bold"),pady=2).pack(fill=X)
+        title=Label(self.root,text="BILLING",bd=10,relief=GROOVE,bg=bg_color,fg="#003151",font=("times new roman",30,"bold"),pady=2).pack(fill=X)
         #=====var====
         #====juices======
         self.sprite=IntVar()
